@@ -1,0 +1,8 @@
+streamlit
+smtplib
+python-dotenv
+oauth2client
+gspread
+google-auth
+google-auth-oauthlib
+google-api-python-client
